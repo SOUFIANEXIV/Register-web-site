@@ -1,1 +1,3 @@
-"# php"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/SOUFIANEXIV/php.git git push -u origin main
+"# php project
+i use php and mysql for backend and javascript and bootstrap for frontend
+its a full project 
